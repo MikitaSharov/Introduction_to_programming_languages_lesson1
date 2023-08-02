@@ -6,19 +6,11 @@
     return result;
 }
 
-int a1 = 13;
-int b1 = 143;
-int c1 = 134;
-int a2 = 313;
-int b2 = 14;
-int c2 = 340;
-int a3 = 130;
-int b3 = 123;
-int c3 = 321;
+int[] array = {100, 2, 3, 42, 5, 6, 7, 8, 9};
 
 int result = Max(
-    Max(a1, b1, c1),
-    Max(a2, b2, c2),
-    Max(a3, b3, c3));
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8]));
 
 Console.WriteLine(result);
