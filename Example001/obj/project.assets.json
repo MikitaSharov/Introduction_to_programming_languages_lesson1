@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
       "projectName": "Example001",
       "projectPath": "D:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
       "outputPath": "D:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\obj\\",
+=======
+      "projectUniqueName": "c:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
+      "projectName": "Example001",
+      "projectPath": "c:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
+      "packagesPath": "C:\\Users\\Envy\\.nuget\\packages\\",
+      "outputPath": "c:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\obj\\",
+>>>>>>> 1157d771adea756fa9718e613ada7d2bba09e778
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config"

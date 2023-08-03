@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "WRDBxD7+EHdom9UNHGgUITLGOMM3ltG4ghWTUFWmuU/U/AUeggw62ouzrL7WB9p6uigt+uHY56OKCS1/pAT88w==",
   "success": true,
   "projectFilePath": "D:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
+=======
+  "dgSpecHash": "kRdQca7UdiW63AE31z/9PSbYe3DdYAStEAB86lRZDdkXmmQ277afQ3cqrPizeYDETEcoiAOkp8EfdogtmApkJw==",
+  "success": true,
+  "projectFilePath": "c:\\Learn\\Introduction_to_programming_languages_lesson1\\Example001\\Example001.csproj",
+>>>>>>> 1157d771adea756fa9718e613ada7d2bba09e778
   "expectedPackageFiles": [],
   "logs": []
 }
